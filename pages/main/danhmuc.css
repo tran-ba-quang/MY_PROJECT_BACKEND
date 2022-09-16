@@ -1,0 +1,61 @@
+.trangdanhmuc{
+    width: 100%;
+}
+.danhmuc {
+    width: 70%;
+    margin-left: 50px;
+}
+ul.product_list li {
+    width: 20%; 
+    border: 1px solid black;
+    float: left;
+    margin: 20px;
+    list-style-type: none;
+}
+ul.product_list li img {
+    width: 85%;
+    margin: 17px;
+}
+p.title_product {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    height: 35px;
+    border-bottom: 1px solid #a4b0be;
+}
+p.price_product {
+    font-size: 14px;
+    padding: 10px 10px 0px 10px;
+    margin: 0;
+    margin-left: 25px;
+}   
+.product_list a{
+    text-decoration: none;
+}
+p.quaylai {
+    margin-left: 214px;
+    margin-bottom: 0;
+    font-size: 15px;
+    margin-top: 0;
+}
+ul.product_list li:hover input.themgiohanggg {
+    visibility: visible;
+    opacity: 1;
+  }
+
+input.themgiohanggg {
+    margin-top: -42px;
+    padding: 13px 40px 14px 38px;
+    border: none;
+    visibility: hidden;
+    position: absolute;
+}
+input.themgiohanggg:hover{
+    background-color: #EA2027;
+    color: #dfe4ea;
+    font-weight: bold;
+    padding: 14px 35px 14px 37px;
+}

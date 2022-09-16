@@ -1,0 +1,37 @@
+a.xoa{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #fed330;
+    color: #eb3b5a;
+}
+a.xoa:hover{
+    box-shadow: 4px 4px 4px 4px #95a5a6;
+}
+a.dkdathang{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #3867d6;
+    color: #d1d8e0;
+}
+a.dkdathang:hover{
+    box-shadow: 4px 4px 4px 4px #95a5a6;
+}
+a.dathang{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #3867d6;
+    color: #d1d8e0;
+}
+a.dathang:hover{
+    box-shadow: 4px 4px 4px 4px #95a5a6;
+}
+a.xoatatca{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #eb3b5a;
+    color: #d1d8e0;
+    margin-right: 10px;
+}
+a.xoatatca:hover{
+    box-shadow: 4px 4px 4px 4px #95a5a6;
+}

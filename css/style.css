@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.bo_boc div{
+    border-spacing: 0px;
+}
+
+.menu{
+    width: 100%;
+    height: 90px;
+    margin-top: 0;
+    margin-bottom: 0;
+    position: fixed;
+    z-index: 999;
+    background-color: #e4e7e3;
+}
+.main {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+.main div{
+    display: inline-table;
+}
+.sidebar{
+    width: 20%;
+}
+
+
+.gbook_moi {
+    width: 100%;
+    height: 500px;
+}
+.cam_hung{
+    width: 100%;
+    height: 360px;
+}
+div.shop{
+    width: 100%;
+    height: auto;
+    padding-bottom: 54px;
+
+}
+div.phantin{
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+}
+.footerr{
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,93 @@
+.shopg {
+    width: 70%;
+    margin-left: 15%;
+}
+ul.shop_gbook{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.shop_gbook li {
+    width: 20%;
+    border: 1px solid #a4b0be;
+    float: left;
+    margin: 20px;
+    /* display: block; */
+}
+ul.shop_gbook li img {
+    width: 85%;
+    margin: 17px;
+}
+.shop h1 {
+    margin-left: 573px;
+    margin-top: 40px;
+}
+div.shop p#none {
+    margin-left: 660px;
+    color: #c0392b;
+}
+p.title_product1 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    height: 35px;
+    border-bottom: 1px solid #a4b0be;
+}
+p.price_product1 {
+    font-size: 14px;
+    padding: 10px 10px 0px 10px;
+    margin: 0;
+    margin-left: 25px;
+}
+ul.shop_gbook li:hover{
+    box-shadow: 8px 8px 8px 8px #bdc3c7;
+    border: 1px solid #4b6584;
+    position: relative;
+}
+/*thiết lập style cho màu sắc, vị trí, độ cao... cho pagination*/
+.flex {
+    width: auto;
+    height: auto;
+    background-color: #d1ccc0;
+    right: 50%;
+  }
+  /*Thiết lập style cho thẻ ul*/
+.flex ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+  }
+  /*thiết lập style cho thẻ li*/
+.flex ul li {
+    list-style: none;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 8px;
+    padding-left: 8px;
+  }
+.flex ul li:hover{
+    background-color: #535c68;
+
+  }
+ul.shop_gbook li:hover input.themgiohangg {
+    visibility: visible;
+    opacity: 1;
+}
+
+input.themgiohangg {
+    margin-top: -42px;
+    padding: 13px 44px 14px 43px;
+    border: none;
+    visibility: hidden;
+    position: absolute;
+}
+input.themgiohangg:hover{
+    background-color: #EA2027;
+    color: #dfe4ea;
+    font-weight: bold;
+    padding: 14px 40px 14px 40px;
+}

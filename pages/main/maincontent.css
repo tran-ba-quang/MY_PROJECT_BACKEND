@@ -1,0 +1,35 @@
+.mainct img.iconweb{
+    width: 73px;
+    border-radius: 50%;
+    padding: 13px;
+    background-image:initial;
+    margin-left: 50px;
+}
+div.maincontent:hover > img.iconweb{
+    background-color: white;
+}
+.mainct h5{
+    margin-bottom: 55px;
+    text-align: center;
+}
+.mainct p.p{
+    margin-top: 20px;
+    text-align: center;
+}
+div.maincontent{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.maincontent{
+    border: 1px solid #95afc0;
+    border-radius: 5px;
+    height: 400px;
+    width: 14%;
+    margin-left: 50px;
+    margin-top: 0px;  
+}
+div.maincontent:hover{
+    background-color: #EA2027;
+    color: white;
+    border: 0;
+}

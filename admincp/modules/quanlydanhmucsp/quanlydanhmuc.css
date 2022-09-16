@@ -1,0 +1,32 @@
+tr td.tendm{
+    width: 95px;
+}
+input[type="submit"] {
+    margin-left: 100px;
+    background-color: #0984e3;
+    color: #f5f6fa;
+    border: none;
+    padding: 5px;
+}
+p.themdmsp{
+    font-size: 20px;
+
+}
+.xulydm a{
+    color: #c7ecee;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px;  
+    background-color: #0652DD;
+    border-radius: 5px;
+}
+.xulydm a:hover{
+    background-color: #EA2027;
+    color: cornsilk;
+}
+.xulydm{
+    text-align: center;
+    height: 30px;
+}
+table.lietkedm{
+    border-collapse: collapse
+}

@@ -1,0 +1,37 @@
+body {
+    background: #58ddb8;
+    margin-top: 62px;
+}
+.wrapper-login {
+    width: 36%;
+    margin: 0 auto;
+}
+table.table-login {
+    width: 100%;
+    background-color: #cfcfcf;
+    color: #00461c;
+    text-align:center;
+    border: 8px outset;
+    
+}
+table.table-login tr td {
+    padding: 4px;
+    border: 1px solid #a5b1c2;
+}
+input[type="text"] {
+    width: 304px;
+    height: 25px;
+}
+input[type="password"] {
+    width: 304px;
+    height: 25px;
+}
+input[type="submit"] {
+    background-color: #005c0a;
+    color: white;
+    border: none;
+    padding: 5px 30px 5px 30px;
+}
+input[type="submit"]:hover{
+    background-color: #9d3a3a;
+}

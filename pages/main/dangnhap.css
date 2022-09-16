@@ -1,0 +1,26 @@
+h2.h2dangnhap {
+    text-align: center;
+}
+div.main form{
+    background-color: #78e08f;
+    padding: 20px;
+}
+table.dangnhap tr td {
+    padding: 5px;
+}
+div.main form table{
+    background-color: white;
+    margin-left: 578px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-weight: 500;
+}
+tr td input[type="submit"] {
+    padding: 2px 20px 2px 20px;
+    background-color: #ff3838;
+    border-radius: 5px;
+    border: none;  
+}
+tr td input[type="submit"]:hover{
+    color: white;
+}

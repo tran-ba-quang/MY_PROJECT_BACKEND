@@ -1,0 +1,28 @@
+p.lietkesp{
+    font-size: 30px;
+}
+input[type="text"] {
+    width: 530px;
+
+}
+select.sldanhmuc {
+    width: 536px;
+}
+input[type="submit"] {
+    background-color: #eb2f06;
+    border: none;
+    padding: 3px;
+    color: #f5f6fa;
+    margin: 5px 215px;
+}
+.xulysp a{
+    color: black;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px; 
+    border-radius: 5px;
+    background-color: #44bd32;
+}
+.xulysp a:hover{
+    background-color: crimson;
+    color: ghostwhite;
+}

@@ -1,0 +1,15 @@
+.xulylh a{
+    color: #c7ecee;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px;  
+    background-color: #0652DD;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.xulylh a:hover{
+    background-color: #EA2027;
+    color: cornsilk;
+}
+td  {
+    height: 32px;
+}

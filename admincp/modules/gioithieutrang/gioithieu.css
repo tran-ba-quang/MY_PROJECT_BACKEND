@@ -1,0 +1,18 @@
+table.tranggioithieu{
+    width: 100%;
+}
+.xulygt a{
+    color: #c7ecee;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px;  
+    background-color: #0652DD;
+    border-radius: 5px;
+}
+.xulygt a:hover{
+    background-color: #EA2027;
+    color: cornsilk;
+}
+.xulygt{
+    text-align: center;
+    height: 30px;
+}

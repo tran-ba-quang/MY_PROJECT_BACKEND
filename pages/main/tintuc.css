@@ -1,0 +1,46 @@
+li.tin {
+    float: left;
+    width: 40%;
+    height: 300px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 1px solid;
+}
+div.phantin2 {
+    width: 80%;
+    margin-left: 13%;
+}
+img.anhtin {
+    width: 50%;
+    height: 70%;
+    padding-right: 5px;
+}
+a#tin{
+    display: flex;
+}
+div.phantin2 ul{
+    list-style-type: none !important;
+}
+div.phantin h1{
+    margin-left: 553px;
+}
+div.phantin p#none {
+    margin-left: 656px;
+    color: #c0392b;
+}
+a#tin div p{
+    font-size: 15px;
+}
+.tin a#xemthem{
+    margin-left: 320px;
+    font-weight: bold;
+}
+.tin a#xemthem:hover{
+    color: #c0392b;
+}
+li.tin:hover{
+    width: 42%;
+    height: 302px;
+    box-shadow: 5px 5px 8px 8px #95a5a6;
+    border: none;
+}

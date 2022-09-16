@@ -1,0 +1,56 @@
+.noi_dung_footer ul{
+    list-style-type: none;
+    margin: 0;
+}
+.noi_dung_footer ul li {
+    float: left;
+    height: 30px;
+    padding-top: 10px;
+}
+.noi_dung_footer ul li a{
+    padding: 10px;
+    font-weight: 500;
+}
+.noi_dung_footer ul li:hover a{
+    border-bottom: black solid;
+    
+}
+.noi_dung_footer {
+    width: 100%;
+}
+.form{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    padding-right: 130px;
+}
+.thong_tin {
+    width: 100%;
+}
+.input-box{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.input-box input[type="text"] {
+    float: right;
+    width: 700px;
+}
+.input-box input[type="email"] {
+    float: right;
+    width: 700px;
+}
+textarea {
+    float: right;
+    width: 700px
+}
+button.lienhe {
+    width: 521px;
+    height: 31px;
+    margin-left: 280px;
+    color: white;
+    background-color: cadetblue;
+    border: none;
+}
+button.lienhe:hover{
+    background-color: #44bd32;
+}

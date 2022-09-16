@@ -1,0 +1,25 @@
+p.themtintuc {
+    font-size: 24px;
+}
+input[type="text"] {
+    width: 530px;
+}
+input[type="submit"] {
+    margin-left: 63px;
+    margin-top: 20px;
+    background-color: #3498db;
+    color: #ecf0f1;
+    border: none;
+    padding: 5px;
+}
+.xulytintuc a{
+    color: black;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px; 
+    border-radius: 5px;
+    background-color: #44bd32;
+}
+.xulytintuc a:hover{
+    background-color: crimson;
+    color: ghostwhite;
+}

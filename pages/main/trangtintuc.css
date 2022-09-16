@@ -1,0 +1,54 @@
+img.anhtin {
+    width: 100%;
+}
+.anhtintuc{
+    width: 20%;
+}
+a#tin {
+    display: flex;
+    margin-top: 10px;
+    border: 1px solid;
+    padding: 50px;
+}
+.trangtin {
+    margin-left: 45px;
+}
+div.phantin4 ul li{
+    list-style-type: none;
+}
+li.tin:hover{
+    box-shadow: 8px 8px 8px 8px #bdc3c7;
+}
+div.phantin4 ul{
+    margin: 40px;
+}
+li.tin:hover .trangtin{
+    color: red;
+}
+div.phantin3 h1{
+    margin-left: 553px;
+}
+div.phantin3 p#none {
+    margin-left: 656px;
+    color: #c0392b;
+}
+.noi_dung_footer ul{
+    list-style-type: none;
+    margin: 0;
+}
+.noi_dung_footer ul li {
+    float: left;
+    height: 30px;
+    padding-top: 10px;
+}
+.noi_dung_footer ul li a{
+    padding: 10px;
+    font-weight: 500;
+}
+.noi_dung_footer ul li:hover a{
+    border-bottom: black solid;
+    
+}
+.noi_dung_footer {
+    width: 100%;
+}

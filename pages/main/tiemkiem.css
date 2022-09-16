@@ -1,0 +1,28 @@
+ul.product_list li{
+    width: 20%;
+    height: 320px;
+    float: left;
+    list-style: none;
+    border: 1px solid;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+ul.product_list {
+    display: inline-table;
+    width: 100%;
+}
+ul.product_list li img{
+    width: 200px;
+    height: 200px;
+    margin-top: 14px;
+    margin-left: 43px;
+}
+.tk{
+    margin-left: 138px;
+}
+p.price_product {
+    text-align: center;
+}
+p.title_product {
+    text-align: center;
+}

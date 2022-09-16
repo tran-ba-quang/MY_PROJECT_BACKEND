@@ -1,0 +1,88 @@
+.sanpham_chitiet {
+    width: 100%;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.sanpham_chitiet .hinhanh_sanpham img{
+    width: 230px;
+    height: 250px;
+}
+.sanpham_chitiet div {
+    float: left;
+}
+.chitiet_sanpham h3{
+    font-size: 35px;
+}
+.chitiet_sanpham p{
+    font-size: 20px;
+}
+.chitiet_sanpham .themgiohang{
+    width: 200px;
+    height: 30px;
+    background-color: #2980b9;
+    color: #ecf0f1;
+    border: 5px outset;
+}
+p.chitiet {
+    margin-left: 216px;
+    margin-bottom: 0;
+    font-size: 30px;
+    margin-top: 0;
+}
+p.quaylai{
+    margin-left: 216px;
+}
+div.chitiet_sanpham {
+    width: 850px;
+}
+ul.lienquan li {
+    width: 15%;
+    border: 1px solid #a4b0be;
+    float: left;
+    margin: 20px;
+    display: block;
+}
+.splienquan {
+    width: 100%;
+}
+.splienquan div {
+    float: left;
+}
+ul.lienquan li img {
+    width: 85%;
+    margin: 17px;
+}
+p.title_product2 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 5px;
+    height: 35px;
+    border-bottom: 1px solid #a4b0be;
+}
+p.price_product2 {
+    font-size: 14px;
+    padding: 10px 10px 0px 10px;
+    margin: 0;
+    margin-left: 34px;
+}
+ul.lienquan li:hover input.themgiohangggg {
+    visibility: visible;
+    opacity: 1;
+}
+
+input.themgiohangggg {
+    margin-top: -44px;
+    padding: 14px 47px 14px 47px;
+    border: none;
+    visibility: hidden;
+    position: absolute;
+}
+input.themgiohangggg:hover{
+    background-color: #EA2027;
+    color: #dfe4ea;
+    font-weight: bold;
+    padding: 14px 44px 17px 44px;
+}

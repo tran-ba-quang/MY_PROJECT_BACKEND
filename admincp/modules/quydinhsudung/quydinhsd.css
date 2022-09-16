@@ -1,0 +1,14 @@
+.xulyquydinh a{
+    color: black;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px; 
+    border-radius: 5px;
+    background-color: #44bd32;
+}
+.xulyquydinh a:hover{
+    background-color: crimson;
+    color: ghostwhite;
+}
+.lietkequydinh tr td {
+    padding: 10px;
+}

@@ -1,0 +1,35 @@
+table.dangky tr td {
+    padding: 5px;
+}
+div.main form{
+    background-color: #78e08f;
+    padding: 20px;
+}
+h2.h2dangky {
+    text-align: center;
+}
+div.main form table{
+    background-color: white;
+    margin-left: 315px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-weight: 500;
+}
+tr td input[type="submit"] {
+    padding: 2px 50px 2px 50px;
+    background-color: #ff3838;
+    border-radius: 5px;
+    border: none;
+    
+}
+tr td input[type="submit"]:hover{
+    color: white;
+}
+tr td a{
+    font-weight: 100;
+    color: black;
+    padding-bottom: 0;
+}
+a.neucotk:hover{
+    color: #ff4757;
+}

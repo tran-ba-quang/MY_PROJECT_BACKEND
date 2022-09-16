@@ -1,0 +1,54 @@
+#a{ 
+    float: right;
+    margin-top: 26px;
+    margin-right: 20px;    
+}
+#aa{ 
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;    
+}
+#menu li {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;    
+}
+#gmail {
+    margin-left: 100px;  
+
+}
+#gmail a{
+    color: black;
+}
+#menu #gmail img{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-top: 10px;
+}
+
+#menu{
+    padding-right: 200px;
+}
+a{
+    text-decoration: none;
+}
+#menu li h1{
+    margin-top: 0;
+    float: right;
+    margin-top: 20px;
+}
+#menu  img{
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-top: 5px;
+}
+#a img {
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+
+

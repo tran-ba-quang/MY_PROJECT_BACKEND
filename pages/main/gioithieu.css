@@ -1,0 +1,29 @@
+p.ndgt {
+    margin: 0px 300px 100px 300px;
+}
+p.ndgt img{
+    margin-left: 80px;
+}
+.g2gt{
+    text-align: center;
+}
+.noi_dung_footer ul{
+    list-style-type: none;
+    margin: 0;
+}
+.noi_dung_footer ul li {
+    float: left;
+    height: 30px;
+    padding-top: 10px;
+}
+.noi_dung_footer ul li a{
+    padding: 10px;
+    font-weight: 500;
+}
+.noi_dung_footer ul li:hover a{
+    border-bottom: black solid;
+    
+}
+.noi_dung_footer {
+    width: 100%;
+}
